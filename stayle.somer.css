@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(10, 0, 95);
+}
+div {
+  background-color: rgb(53, 11, 11);
+}
+div {
+  background-color: rgb(175, 53, 31);
+}
+table,
+tr,
+th,
+td {
+  border: 10px solid rgb(23, 46, 177);
+}
